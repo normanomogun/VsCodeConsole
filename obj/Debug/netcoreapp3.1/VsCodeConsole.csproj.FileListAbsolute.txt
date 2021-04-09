@@ -1,0 +1,13 @@
+C:\Users\norge\source\repos\VsCodeConsole\bin\Debug\netcoreapp3.1\VsCodeConsole.exe
+C:\Users\norge\source\repos\VsCodeConsole\bin\Debug\netcoreapp3.1\VsCodeConsole.deps.json
+C:\Users\norge\source\repos\VsCodeConsole\bin\Debug\netcoreapp3.1\VsCodeConsole.runtimeconfig.json
+C:\Users\norge\source\repos\VsCodeConsole\bin\Debug\netcoreapp3.1\VsCodeConsole.runtimeconfig.dev.json
+C:\Users\norge\source\repos\VsCodeConsole\bin\Debug\netcoreapp3.1\VsCodeConsole.dll
+C:\Users\norge\source\repos\VsCodeConsole\bin\Debug\netcoreapp3.1\VsCodeConsole.pdb
+C:\Users\norge\source\repos\VsCodeConsole\obj\Debug\netcoreapp3.1\VsCodeConsole.csprojAssemblyReference.cache
+C:\Users\norge\source\repos\VsCodeConsole\obj\Debug\netcoreapp3.1\VsCodeConsole.AssemblyInfoInputs.cache
+C:\Users\norge\source\repos\VsCodeConsole\obj\Debug\netcoreapp3.1\VsCodeConsole.AssemblyInfo.cs
+C:\Users\norge\source\repos\VsCodeConsole\obj\Debug\netcoreapp3.1\VsCodeConsole.csproj.CoreCompileInputs.cache
+C:\Users\norge\source\repos\VsCodeConsole\obj\Debug\netcoreapp3.1\VsCodeConsole.dll
+C:\Users\norge\source\repos\VsCodeConsole\obj\Debug\netcoreapp3.1\VsCodeConsole.pdb
+C:\Users\norge\source\repos\VsCodeConsole\obj\Debug\netcoreapp3.1\VsCodeConsole.genruntimeconfig.cache
